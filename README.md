@@ -1,6 +1,6 @@
 # Proyecto Netflix: limpieza, normalización y consultas SQL
 
-Preparación del dataset `netflix_titles.csv` (8.807 títulos) para cargarlo en una base de datos relacional (PostgreSQL, gestionada con DBeaver) y consultarlo con SQL.
+Preparación del dataset `netflix_titles.csv` 
 
 ## Contenido
 
